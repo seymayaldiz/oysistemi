@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\bin\Debug\Proje_2_SecimSistemi.exe.config
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\bin\Debug\Proje_2_SecimSistemi.exe
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\bin\Debug\Proje_2_SecimSistemi.pdb
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.Form1.resources
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.Form2.resources
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.exe
+C:\Users\Lenovo\source\repos\Proje_2_SecimSistemi\Proje_2_SecimSistemi\obj\Debug\Proje_2_SecimSistemi.pdb
